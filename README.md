@@ -29,9 +29,9 @@ server {
 } 
 ```
 
-root - Path to your website directory
+**root** - Path to your website directory
 
-proxy_pass - Address to your working Node.js app (configuration below)
+**proxy_pass** - Address to your working Node.js app (configuration below)
 
 Open cmd in frontend directory (and backend directory after) and download all node modules:
 ```
